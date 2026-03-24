@@ -13,38 +13,37 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a <b className="purple">Vibe Coder</b> — I turn ideas into
+              real products using the power of AI. I don't just write code, I
+              <i> vibe with it</i> — prompting, iterating, and shipping fast.
               <br />
               <br />
-              I’m proficient in
+              My toolkit includes
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  AI tools like Claude, Cursor, ChatGPT, and Gemini{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — combined with solid fundamentals in JavaScript, React, and
+              Node.js.
               <br />
               <br />
-              My key areas of interest include developing
+              I specialize in
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  rapid prototyping, AI-assisted development, and
+                  prompt-to-product workflows.{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I build with
+              <b className="purple"> React.js</b>,{" "}
+              <b className="purple">Next.js</b>,{" "}
+              <b className="purple">Node.js</b>, and whatever AI tools get the
+              job done fastest.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
